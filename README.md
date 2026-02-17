@@ -50,7 +50,7 @@ Basic UI design principles
 
 (Add your Form.png image here)
 
-![Contact Form Screenshot](contact-form.png)
+![Contact Form Screenshot](Form.png)
 
 💡 Future Improvements
 
