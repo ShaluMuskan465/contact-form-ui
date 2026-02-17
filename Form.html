@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="design.css">
+    <link rel="shortcut icon" href="" type="image/x-icon">
+</head>
+<body>
+    <div class="one">
+        <head><h2 id="heading1">Contact Form</h2></head>
+        <br>
+        <p>please fill in your information and we,ll be sending your order in no time.</p> <br>
+        <form method="post">
+            <label for="text">Your Name</label>
+            <br>
+            <input type="text" id="text" placeholder="First Name" required>
+            <input  type="text"  id="text" placeholder="Last Name" required><br><br>
+            <label for="text1">Your Email</label>
+            <br>
+            <input id="text1" type="email" placeholder="e.g hello@contact.net" required><br><br>
+            <label for="text2">Phone</label>
+            <br>
+            <input type="number" id="text2"  maxlength="10" placeholder="Enter your phone Number" required><br><br>
+            <label for="text3">Message Subject*</label>
+            <br>
+            <select name="city" id="text3">
+            <option value="delhi"  id=" para2">other</option>
+            </select><br><br>
+            <label for="message">Message*</label>
+            <br>
+            <textarea name="message" id="message" rows="5" cols="50"></textarea><br><br>
+            <label>Verification*</label>
+            <br>
+            <div class="verification-box">
+              <input type="checkbox" id="text4" required >
+              <label for="verify" id="six">I,m not a robot</label>
+            </div>
+           <br><br>
+            <input type="submit" value="SUBMIT" id="five" required>
+
+
+        </form>
+        
+</div>
+</body>
+
+</html> 
+
