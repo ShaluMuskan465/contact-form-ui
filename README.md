@@ -29,10 +29,10 @@ CSS3
 📂 Project Structure
 contact-form-ui/
 │
-├── index.html
-├── style.css
-├── contact-form.png
-└── README.md
+├── Form.html
+├── Form.png
+├── README.md
+└── design.css
 
 🎯 Purpose of This Project
 
@@ -47,8 +47,6 @@ Layout alignment
 Basic UI design principles
 
 📸 Screenshot
-
-(Add your Form.png image here)
 
 ![Contact Form Screenshot](Form.png)
 
