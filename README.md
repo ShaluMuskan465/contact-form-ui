@@ -2,11 +2,6 @@
 
 A clean and responsive Contact Form built using HTML and CSS.
 This project focuses on form structure, layout design, and basic frontend styling.
-
-🚀 Live Preview
-
-(Add GitHub Pages link here after deployment)
-
 📌 Features
 
 Clean and modern UI
